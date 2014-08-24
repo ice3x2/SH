@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="L_Setting_Led_Count">LED 개수</string>
+    <string name="L_Setting_Led_Count_Description">사용할 LED개수를 설정하여 배터리를 절약할 수 있습니다.</string>
+    <string name="L_Setting_Led_Gradation_Enable">그라데이션 모드</string>
+    <string name="L_Setting_Led_Gradation_Enable_Description">현재 속도를 LED를 통하여 표시할 때 그라데이션을 사용합니다.</string>
+    <string name="L_Setting_Led_Guage_Enable">게이지 모드</string>
+    <string name="L_Setting_Led_Guage_Enable_Description">LED를 통하여 속도를 표시할 때, LED가 순차적으로 점등되는 방식을 선택합니다.</string>
+    <string name="L_Setting_Slave_GPS">위치 서비스 전송</string>
+    <string name="L_Setting_Slave_GPS_Description">헬멧과 안드로이 기기와 연결되어 있는 상태라면, 헬멧의 GPS를 종료하고 안드로이드 장치로부터 위치,속도 정보를 받아옵니다.</string>
+    <string name="L_Setting_Log_Enable">위치 기록 사용</string>
+    <string name="L_Setting_Log_Enable_Description">GPS를 통하여 받아온 위치를 일정 간격으로 기록하여 날짜별로 저장합니다.</string>
+    <string name="L_Setting_Log_Delay">위치 기록 주기</string>
+    <string name="L_Setting_Log_Delay_Description">GPS를 통하여 받아온 위치를 저장할 거리 간격을 설정합니다.</string>
+    <string name="L_Setting_Log_Reset">위치 기록 리셋</string>
+    <string name="L_Setting_Log_Reset_Description">저장된 위치 기록을 모두 제거합니다.</string>
+</resources>
